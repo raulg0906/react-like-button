@@ -28,7 +28,7 @@ class App extends Component {
     return (
       <div className="App">
       <header className ="App-Header">
-        <button onClick ={this.addLike}> {this.state.count} {this.state.likes}</button>
+        <button onClick ={this.addLike}>👍 {this.state.count} {this.state.likes}</button>
       </header>
       </div>
     );
