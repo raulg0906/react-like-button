@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background: black;
+}
+
+button{
+  width: 200px;
+  height: 60px;
+  background: blue ;
+  color: white;
+  margin-top: 300px;
+  font-size: 20px;
+  font-family: helvetica, arial
+  
+}
